@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.miku;
+package com.android.internal.util.hsin;
 
 import static android.os.UserHandle.USER_SYSTEM;
 

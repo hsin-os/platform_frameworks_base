@@ -76,7 +76,7 @@ import java.util.Objects;
 import java.util.StringJoiner;
 import java.util.concurrent.TimeoutException;
 
-import com.android.internal.util.miku.PropsUtils;
+import com.android.internal.util.hsin.PropsUtils;
 
 /**
  * Base class for implementing application instrumentation code.  When running

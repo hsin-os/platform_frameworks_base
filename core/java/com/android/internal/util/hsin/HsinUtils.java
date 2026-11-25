@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.miku;
+package com.android.internal.util.hsin;
 
 import android.Manifest;
 import android.content.Context;
@@ -48,7 +48,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
 
-public class MikuUtils {
+public class HsinUtils {
 
 	// Check if device is connected to Wi-Fi
     public static boolean isWiFiConnected(Context context) {
